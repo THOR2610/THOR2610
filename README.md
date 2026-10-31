@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @THOR2610
-- 👀 I’m interested in ...Graphic Designing
-- 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...advertisement
+- 👀 I’m interested in ...Machine Learning
+- 🌱 I’m currently learning ...Java
+- 💞️ I’m looking to collaborate on ...Model Training
 - 📫 How to reach me ...aaravvarya2610@gmail.com
 
 <!---
